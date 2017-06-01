@@ -10,6 +10,7 @@ public class A
      */
     public static void main(String[] args)
     {
+        // TRY ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++
         Scanner scan = new Scanner(System.in);
         Process p = new Process(scan.nextLine());
         p.go();
