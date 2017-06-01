@@ -1,5 +1,5 @@
 # fuckbraintranslater
-Translate fuckbrain code in a simple java.
+Translate fuckbrain code to readable plain text in a simple java.
 
 2017-5-31 17:58:15
 1. Can do basic translate;
